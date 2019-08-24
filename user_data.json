@@ -1,0 +1,47 @@
+{
+    "address": "Guatemala, Guatemala.",
+    "avatar": "./avatar.jpg",
+    "bio": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "certificate": [],
+    "education": [
+      {
+        "degree": "Universidad del Valle de Guatemala",
+        "description": " I’m so hungry i’m so hungrys but ew not for that pelt around the house and up and down stairs chasing phantoms",
+        "endDate": "Jan 2017",
+        "institution": "MIT",
+        "startDate": "Jan 2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "PugStar",
+        "endDate": "Present",
+        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
+        "jobTitle": "Frontend",
+        "startDate": "Jan 2020"
+      },
+      {
+        "company": "CatStore",
+        "endDate": "Jan 2016",
+        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
+        "jobTitle": "Backend",
+        "startDate": "Sept 2019"
+      }
+    ],
+    "name": "Samuel Urias",
+    "profession": "Web Developer",
+    "skills": [
+      { "name": "HTML5", "percentage": "70%" },
+      { "name": "CSS", "percentage": "70%" },
+      { "name": "JavaScript", "percentage": "70%" },
+      { "name": "React", "percentage": "40%" },
+      { "name": "Vue", "percentage": "80%" }
+    ],
+    "social": [
+      { "name": "facebook", "url": "https://facebook.com/msamuelurias" },
+      { "name": "twitter", "url": "https://twitter.com/moisesurias" },
+      { "name": "github", "url": "https://github.com/samiurias" },
+      { "name": "linkedin", "url": "https://www.linkedin.com/in/samuelurias/" }
+    ]
+  }
+  
