@@ -1,12 +1,12 @@
 {
     "address": "Guatemala, Guatemala.",
     "avatar": "./avatar.jpg",
-    "bio": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "bio": "I am a Full Stack Developer",
     "certificate": [],
     "education": [
       {
         "degree": "Universidad del Valle de Guatemala",
-        "description": " I’m so hungry i’m so hungrys but ew not for that pelt around the house and up and down stairs chasing phantoms",
+        "description": "Talking a little bit about me, I am a web developer with an entrepreneurial mindset that is constantly searching for new challenges and looking to learn cutting-edge technologies with the aim of implementing innovative solutions trying to solve the problems of the clients the best as possible. I have knowledge of a lot of technologies that I have to use professionally in frontend, backend, servers, etc so I consider myself a Full Stack developer, but if you are here looking for my superpowers or something like that, I am particularly good with PHP, NodeJs and Vuejs but my secret is getting things done. As simple as that. ",
         "endDate": "Jan 2017",
         "institution": "MIT",
         "startDate": "Jan 2018"
@@ -14,28 +14,43 @@
     ],
     "experience": [
       {
-        "company": "PugStar",
+        "company": "Soluciones Faciles, S.A",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "jobDescription": "In this job, I work as a full-stack developer on an existing platform. I have the responsibility to make different fixes to the platform and new features as needed.",
+        "jobTitle": "Full Stack Web Developer",
+        "startDate": "Jan 2017"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "ChapiLabs",
+        "endDate": "Present",
+        "jobDescription": "I am working developing a web application developer with Django and Vue",
+        "jobTitle": "Full Stack Web Developer",
+        "startDate": "Dec 2018"
+      },
+      {
+        "company": "Chingu",
+        "endDate": "Aug 2018",
+        "jobDescription": "I worked on a remote project as a team leader and developer in a MVP called 'MyDiiary'. This MVP was developed using the MEVN stack",
+        "jobTitle": "Project Team Lead",
+        "startDate": "Jun 2018"
+      },
+      {
+        "company": "GTX, S.A",
+        "endDate": "Aug 2016",
+        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
+        "jobTitle": "Junior Developer",
+        "startDate": "Dec 20155"
       }
+     
     ],
     "name": "Samuel Urias",
-    "profession": "Web Developer",
+    "profession": "Software Developer",
     "skills": [
       { "name": "HTML5", "percentage": "70%" },
       { "name": "CSS", "percentage": "70%" },
       { "name": "JavaScript", "percentage": "70%" },
-      { "name": "React", "percentage": "40%" },
-      { "name": "Vue", "percentage": "80%" }
+      { "name": "React", "percentage": "20%" },
+      { "name": "Vue", "percentage": "70%" }
     ],
     "social": [
       { "name": "facebook", "url": "https://facebook.com/msamuelurias" },
