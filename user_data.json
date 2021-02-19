@@ -2,26 +2,40 @@
     "address": "Guatemala, Guatemala.",
     "avatar": "./avatar.jpg",
     "bio": "I am a Full Stack Developer",
-    "certificate": [],
+    "certificate": [""],
     "education": [
       {
         "degree": "Universidad del Valle de Guatemala",
-        "description": "Talking a little bit about me, I am a web developer with an entrepreneurial mindset that is constantly searching for new challenges and looking to learn cutting-edge technologies with the aim of implementing innovative solutions trying to solve the problems of the clients the best as possible. I have knowledge of a lot of technologies that I have to use professionally in frontend, backend, servers, etc so I consider myself a Full Stack developer, but if you are here looking for my superpowers or something like that, I am particularly good with PHP, NodeJs and Vuejs but my secret is getting things done. As simple as that. ",
-        "endDate": "Jan 2017",
+        "description": "Talking a little bit about me, I am a Senior Full Stack Web developer with an entrepreneurial mindset that is constantly searching for new challenges. I am specialist in getting things done.",
+        "endDate": "Dic 2016",
         "institution": "MIT",
-        "startDate": "Jan 2018"
+        "startDate": "Jan 2013"
       }
     ],
     "experience": [
       {
+        "company": "Walmart",
+        "endDate": "Aug 2020",
+        "jobDescription": "",
+        "jobTitle": "Tech Lead",
+        "startDate": "Present"
+      },
+      {
+        "company": "Userlab, S.A",
+        "endDate": "May 2020",
+        "jobDescription": "",
+        "jobTitle": "Full Stack Web Developer",
+        "startDate": "Nov 2019"
+      },
+      {
         "company": "Soluciones Faciles, S.A",
-        "endDate": "Present",
+        "endDate": "Oct 2019",
         "jobDescription": "In this job, I work as a full-stack developer on an existing platform. I have the responsibility to make different fixes to the platform and new features as needed.",
         "jobTitle": "Full Stack Web Developer",
         "startDate": "Jan 2017"
       },
       {
-        "company": "ChapiLabs",
+        "company": "ChapiLabs  ( Freelance )",
         "endDate": "Present",
         "jobDescription": "I am working developing a web application developer with Django and Vue",
         "jobTitle": "Full Stack Web Developer",
@@ -39,7 +53,7 @@
         "endDate": "Aug 2016",
         "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
         "jobTitle": "Junior Developer",
-        "startDate": "Dec 20155"
+        "startDate": "Dec 2015"
       }
      
     ],
@@ -48,8 +62,9 @@
     "skills": [
       { "name": "HTML5", "percentage": "70%" },
       { "name": "CSS", "percentage": "70%" },
-      { "name": "JavaScript", "percentage": "70%" },
-      { "name": "React", "percentage": "20%" },
+      { "name": "JavaScript", "percentage": "80%" },
+      { "name": "React", "percentage": "90%" },
+      { "name": "NodeJs", "percentage": "90%" },
       { "name": "Vue", "percentage": "70%" }
     ],
     "social": [
