@@ -15,7 +15,7 @@ const Experience = props => {
               {element.jobTitle} {element.company}
             </H3Styled>
             <span>
-              {element.startDate} {element.endDate}
+              {element.startDate} -- {element.endDate}
             </span>
             <PStyled>{element.jobDescription}</PStyled>
           </div>

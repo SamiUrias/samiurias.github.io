@@ -29,11 +29,11 @@ const AboutH2 = styled.h2`
   font-weight: 400;
   letter-spacing: 1.2px;
   margin: 0.5em 0 0 0;
-  color: #c2185b;
+  color: black;
 `;
 
 const AboutProfession = styled.p`
-  color: #c2185b;
+  color: blue;
   font-weigth: 300;
   letter-spacing: 1.6px;
   margin: 0.2em 0 1em 0;

@@ -1,5 +1,4 @@
 import { useState, useEffect} from 'react'
-// const api = 'https://us-central1-gndx-cv.cloudfunctions.net/me'
 const api = './user_data.json'
 
 const useGetData = () => {
