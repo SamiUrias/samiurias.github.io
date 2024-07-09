@@ -38,3 +38,7 @@ next-env.d.ts
 # editors
 .idea
 .vscode
+
+
+# lock
+bun.lockb
