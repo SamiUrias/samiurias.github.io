@@ -8,7 +8,7 @@ const projectsData = [
     {
         id: 1,
         title: 'WebAssembly POC',
-        description: 'POC using WebAssembly',
+        description: 'POC using Rust and WebAssembly',
         image: '/images/projects/01_wasm_poc.png',
         previewUrl: 'https://poc-wasm-project1-ojjpkos6r-samiurias.vercel.app',
         gitUrl: 'https://github.com/SamiUrias/POC_wasm_project1/tree/master',
