@@ -12,7 +12,7 @@ const Footer = () => {
             width={25}
           />
         </span>
-        <p className="text-slate-600">All Rights Reserved - v4.0</p>
+        <p className="text-slate-600">All Rights Reserved - v5.0</p>
       </div>
     </footer>
   );
